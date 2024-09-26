@@ -1,7 +1,7 @@
 # dsp-lab1
 Practical experiments in Digital SIgnal Processing Lab.
 ## Platform Used
-MATLAB/
+<li>MATLAB</li>
 ##Table of content
 <li>Simulation of Test signals</li>
 <li>Verification of Smpling Theorem</li>
