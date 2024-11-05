@@ -1,12 +1,12 @@
 clc; 
-clear; 
+clear all; 
 close all; 
 x=[1 2 3 4]; 
 h=[1 1 1]; 
 
 l=length(x); 
 m=length(h); 
-n=l+m-1; 
+n=l+m-1 
 x1=[x zeros(1,n-l)]; 
 h1=[h zeros(1,n-m)]; 
 x2=fft(x1); 
