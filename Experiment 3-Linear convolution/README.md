@@ -1,3 +1,5 @@
+![Graph](Screenshot%20(1403).png)
+
 Theory:
 
 Linear convolution is a mathematical operation used to combine two signals to produce 
