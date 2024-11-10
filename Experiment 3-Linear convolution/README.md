@@ -1,4 +1,5 @@
 Theory:
+
 Linear convolution is a mathematical operation used to combine two signals to produce 
 a third signal. It's a fundamental operation in signal processing and systems theory.
 Mathematical Definition: 
