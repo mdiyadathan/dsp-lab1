@@ -1,4 +1,5 @@
-![Graph](Screenshot(1401).png)
+![Graph](Screenshot (1401).png)
+
 Theory:
 1. Unit Impulse Signal: 
 • A signal that is zero everywhere except at one point, typically at t=0 where its value
