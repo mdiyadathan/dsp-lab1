@@ -1,4 +1,4 @@
-![Graph](Screenshot (1401).png)
+![Graph](Screenshot%20(1401).png)
 
 Theory:
 1. Unit Impulse Signal: 
