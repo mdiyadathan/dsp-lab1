@@ -1,3 +1,4 @@
+![Graph](Screenshot(1401).png)
 Theory:
 1. Unit Impulse Signal: 
 • A signal that is zero everywhere except at one point, typically at t=0 where its value
@@ -42,6 +43,7 @@ decay is determined by the constant a.
  Result :
 
 Generated and Verified various Continuous and Discrete waveforms for basic test signals.
+
 
 
 
