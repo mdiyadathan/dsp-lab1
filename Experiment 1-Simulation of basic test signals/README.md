@@ -39,7 +39,8 @@ decay is determined by the constant a.
  0 ; t<0}
 
 
-Result :
+ Result :
+
 Generated and Verified various Continuous and Discrete waveforms for basic test signals.
 
 
