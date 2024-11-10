@@ -1,3 +1,5 @@
+![Graph](Screenshot%20(1402).png)
+
 Theory:
 
 The Sampling Theorem, also known as the Nyquist-Shannon Sampling Theorem, states 
